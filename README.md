@@ -1,4 +1,4 @@
-# Image Style Transfer Final Project
+# Text-Based Image Style Transfer
 
 #### Final project for DSAIT4120: Applied Image Processing at TU-Delft. Authors: P. Johari, O. Milchi, & M. Smink
 
