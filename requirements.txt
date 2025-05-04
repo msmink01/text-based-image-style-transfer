@@ -1,0 +1,16 @@
+tkinterdnd2~=0.4.2
+torch==1.13.1
+huggingface-hub==0.25.0
+sentence-transformers==2.2.2
+numpy==1.26.4
+torchvision
+opencv-python
+matplotlib
+tqdm
+openai-clip
+Pillow
+groundingdino-py
+segment_anything
+gradio
+matplotlib
+opencv-python
