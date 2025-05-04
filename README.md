@@ -1,10 +1,16 @@
 # Image Style Transfer Final Project
 
-Authors: P. Johari, O. Milchi, & M. Smink
+#### Final project for DSAIT4120: Applied Image Processing at TU-Delft. Authors: P. Johari, O. Milchi, & M. Smink
+
+Each author implemented different style transfer components. The breakdown of these components per author can be seen in the project report.
 
 ## Demo
 
-Please see `AIP_FInalVideo.mp4` for a demo of this application.
+Link to demo on YouTube can be found [here](https://youtu.be/MqrvMC7lqj0).
+
+[![Demo image](https://img.youtube.com/vi/MqrvMC7lqj0/0.jpg)](https://www.youtube.com/watch?v=MqrvMC7lqj0)
+
+Or please see `AIP_FInalVideo.mp4` for a demo of this application and `DSAIT4120_FinalProjectReport.pdf` for a very basic explanation of the components in this project.
 
 ## Environment Setup Instructions
 
